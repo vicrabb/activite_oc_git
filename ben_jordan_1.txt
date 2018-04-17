@@ -40,3 +40,169 @@ l'ambiance de jeux d'aventure old school.
 La version Deluxe comporte la barre d'action introduite dans la 4e aventure de
 Ben Jordan et diffère largement de la première version. Le jeu est aussi
 "voiced", c'est-à-dire qu'on entend des "acteurs" jouer le rôle des personnages.
+
+ami, près des Everglades, cherchant
+quelque chose appelé le Skunk-Ape, une variante locale du Bigfoot. Plusieurs
+rangers ont été tués et Ben a été appelé sur suspicion de l'implication de cette
+attraction locale.
+
+==========================
+3. Solution du jeu normal
+==========================
+
+N'hésitez pas à utiliser l'icône oeil sur les éléments du décor, Ben a de
+l'humour!
+
+°~~°~~° Rangers Station °~~°~~°
+
+Vous commencez le jeu dans le poste des rangers. Parlez avec le ranger. Demandez
+-lui ce qu'il sait:
+
+- Skunk-Ape = Il vous explique les caractéristiques de l'animal.
+- Murders = Il vous explique que les corps ont été retrouvés sans foie, organe
+  dont le Skunk-Ape raffole.
+- Sightings = Il vous explique que les seules personnes à avoir vu le Skunk-Ape
+  sont mortes
+- Plan = Le ranger conseille à Ben de prendre un aéroglisseur avec un de ses
+  collègues pour inspection des lieux. Le ranger en question s'appelle Rick.
+- Ranger Rick = Demandez-lui ce qu'il sait sur Rick.
+- Park = Le ranger est flatté de votre compliment
+- Himself = Le ranger s'appelle Ernie et a plus de 30 ans de carrière chez les
+  Rangers
+
+Une fois que vous aurez fini de parler avec Ernie, allez vers le frigo pour
+récupérer un sandwich pourri. Ensuite, fouillez les tiroirs du bureau de droite
+pour y trouver une brochure.
+
+Sortez du bâtiment.
+
+21/100
+
+°~~°~~° Parc °~~°~~°
+
+Parlez à Rick:
+
+- Himself = Vous apprenez qu'il s'agit effectivement de Rick
+- Plan = Rick refuse de vous accompagner si vous ne lui apportez pas une
+  amulette
+- Amulet = Rick explique ce qu'est l'amulette en question
+- Skunk-Ape = Rick explique ce qu'il sait
+- Murders = Rick n'en sait pas plus qu'Ernie
+
+Allez vers la gauche pour rejoindre le centre des visiteurs.
+
+24/100
+
+°~~°~~° Centre des visiteurs °~~°~~°
+
+Parlez au hippie:
+
+- Himself = Il s'appelle Lloyd et est un activiste pour l'environnement
+- Protests = Lloyd explique qu'il proteste contre chaque injustice
+  environnementale
+- Skunk-Ape = Il ne croit pas à cette légende car il estime qu'elle est utilisée
+  par les promoteurs immobiliers pour cacher leurs activités.
+- Park = Il semble de ne pas aimer le parc ni les rangers
+
+Continuez vers la gauche et essayez d'ouvrir la vitrine. La réceptionniste vous
+rappelle à l'ordre. Allez lui parler.
+
+- Skunk-Ape = Elle ne connaît que le parc et pas le Skunk-Ape
+- Visitors Center = Elle vous explique ce que le centre propose comme activité.
+- Display Case = Elle vous explique ce que la vitrine contient
+- Photographs = Elle explique qu'il s'agit de la principale figure qui a fait
+  des Everglades une réserve nationale.
+- Computer = Elle explique à quoi il sert: mettre votre visage à côté de cette
+  fameuse personne qu'est Marjory.
+
+Revenez à l'entrée du centre et prenez la photo de droite. Ensuite, utilisez-la
+sur l'ordinateur, puis utilisez la brochure (où la réceptionniste a sa photo)
+pour obtenir une photo de Marjory en train de se faire agresser par la
+réceptionniste...
+
+Utilisez cette photo sur Lloyd qui va être choqué et demander des explications
+à la réceptionniste. Pendant ce temps, allez vers la vitrine et prenez une
+dent de requin.
+
+Allez à l'entrée du centre et allez en haut à droite.
+
+40/100
+
+°~~°~~° Marais °~~°~~°
+
+Déposez le sandwich près des buissons. Sortez par le bas de l'écran pour revenir
+au centre. Ensuite, revenez près du marais. Le sandwich a disparu mais le Skunk-
+Ape a laissé des poils. Ramassez-les puis utilisez-les avec la dent de requin
+pour fabriquer l'amulette. Revenez près de Rick.
+
+50/100
+
+°~~°~~° Parc °~~°~~°
+
+Utilisez l'amulette sur Rick.
+
+57/100
+
+°~~°~~° Forêt °~~°~~°
+
+Rick se rend compte qu'il a oublié de la lumière mais Ben propose de faire
+du feu et d'aller chercher du bois pendant que le ranger montera le campement.
+Parlez à Rick:
+
+- Skunk-Ape = Rick pense qu'il n'est pas loin et vous remet une boussole
+- Camp = Rick planifie déjà la soirée
+- Himself = Rick veut bien expliquer sa vocation mais pendant la soirée.
+
+Allez à gauche pour chercher du bois.
+
+59/100
+
+°~~°~~° Entrée de la Caverne °~~°~~°
+
+Prenez le bois par terre et entrez dans la caverne.
+
+61/100
+
+°~~°~~° Caverne °~~°~~°
+
+Ben a découvert l'antre du Skunk-Ape! Allez près du mur au fond, mettez la
+branche que vous venez de ramasser par terre, puis utilisez le compas sur le
+mur pour faire une torche.
+
+Approchez-vous de l'espèce de trou au milieu et jetez la torche au fond.
+
+Ben découvre une cachette remplie de cocaïne! Utiliserait-on le Skunk-Ape pour
+éloigner les curieux? Ben retourne près de Rick pour faire part de sa découverte
+et passe la soirée tranquillement.
+
+87/100
+
+°~~°~~° Entrée de la Caverne °~~°~~°
+
+Ben se réveille et découvre que Rick ainsi que son fusil ont disparus. Il va
+près de la caverne où il trouve Rick en train de mettre en joue le Skunk-Ape.
+Oui mais voilà, l'animal tue Rick et Ben s'évanouit.
+
+°~~°~~° Cabane °~~°~~°
+
+Ben se réveille devant une cabane. Le Skunk-Ape est là, avec un type qui
+s'appelle Jed et qui est en fait le trafiquant de drogue. Il contrôle grâce
+à un collier électronique l'animal. Le Skunk-Ape n'agit donc pas de sa propre
+volonté. Ben se réfugie dans la cabane.
+
+Vous avez tout le temps pour faire ce qu'il faut car le Skunk-Ape aura beau
+frapper à la porte, il ne rentrera pas.
+
+Allez prendre la télécommande sur le canapé et utilisez-la sur la TV. Vous
+découvrez soudainement que la TV est l'écran de contrôle du Skunk-Ape. Bah,
+tant pis pour Jed qui va se faire tuer par l'animal... Pour dérégler tout cela,
+utilisez la boussole sur la TV.
+
+103/100
+
+°~~°~~° Rangers Station °~~°~~°
+
+Vous voilà de retour près d'Ernie pour encaisser votre chèque et annoncer la
+mort de Rick.
+
+Et voilà, vous venez de résoudre votre première affaire!
